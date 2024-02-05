@@ -1,0 +1,25 @@
+{
+  "name": "ldh0308-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldh0308/ldh0308-express.git"
+  },
+  "keywords": [
+    "js",
+    "ldh0308",
+    "express",
+    "server"
+  ],
+  "author": "ldh0308",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldh0308/ldh0308-express/issues"
+  },
+  "homepage": "https://github.com/ldh0308/ldh0308-express#readme"
+}
